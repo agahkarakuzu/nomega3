@@ -24,10 +24,7 @@ Omega-3 supplementation demonstrated a significant positive correlation with CRP
 :::{figure} #fig1cell
 :label: fig1
 
-Scatter plot showing the relationship between daily omega-3 intake and percent reduction in CRP levels  
-after 6 months of supplementation. Each point represents one participant (n=75). The solid line shows the  
-linear regression fit with 95% confidence interval (shaded area). A strong positive correlation was observed  
-(r = {r:.2f}, p < 0.001), suggesting a dose-dependent anti-inflammatory effect.
+Scatter plot showing the relationship between daily omega-3 intake and percent reduction in CRP levels after 6 months of supplementation. Each point represents one participant (n=75). The solid line shows the linear regression fit with 95% confidence interval (shaded area). A strong positive correlation was observed (r = {r:.2f}, p < 0.001), suggesting a dose-dependent anti-inflammatory effect.
 :::
 
 # Conclusion
