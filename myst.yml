@@ -33,6 +33,9 @@ project:
   banner: static/banner.jpg
   venue: Evidence
   subject: Computational Article
+  toc:
+    - file: paper.md
+    - file: content/figure_1.ipynb
   numbering:
     headings: true
   doi: 10.55458/nomega.1234
@@ -48,7 +51,6 @@ project:
     - paper.bib
   resources:
     - content/figure1.ipynb
-    - content/figure2.md
 site:
   template: article-theme 
   options:
